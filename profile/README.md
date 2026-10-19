@@ -34,6 +34,18 @@ Ottawa, Mexico City, Buenos Aires, London, Sydney, Auckland, Manila, Mumbai and 
 Client workloads are hosted in sovereign regions in the United States, the United Kingdom and Australia. See the
 [Trust Center](https://trust.moraph.com) for how we protect client data.
 
+### Open source
+
+Tools we built for our own work and maintain in the open (Apache-2.0):
+
+| Project | What it does |
+| --- | --- |
+| [mcp-worker-kit](https://github.com/moraph-com/mcp-worker-kit) | A remote MCP server on Cloudflare Workers with OAuth 2.1, permission tiers and an audit trail, so AI assistants act only as far as the signed-in person may. Extracted from the server behind mcp.moraph.com. |
+| [d1-backup](https://github.com/moraph-com/d1-backup) | Nightly, restorable SQL backups of Cloudflare D1 databases into R2, with a restore script that verifies every file and row count. |
+| [regulated-workflow-schemas](https://github.com/moraph-com/regulated-workflow-schemas) | Open JSON Schema record formats for vendor risk reviews, patient-safety incidents, permit applications and board actions, with a validator. |
+
+Security reports: [security@moraph.com](mailto:security@moraph.com) or each repository's private vulnerability reporting.
+
 ### Moraph for Good
 
 [Moraph for Good](https://moraph.org) is our social impact program. It gives Moraph software, security help and people's
