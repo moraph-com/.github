@@ -1,0 +1,14 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Moraph website
+    url: https://www.moraph.com
+    about: Product information and how to work with Moraph.
+  - name: Get in touch
+    url: https://www.moraph.com/contact
+    about: Sales, partnership and general enquiries.
+  - name: Report a security vulnerability
+    url: https://trust.moraph.com
+    about: Do not open a public issue. Email security@moraph.com or use the repository's private vulnerability reporting. See the Trust Center.
+  - name: Service status
+    url: https://status.moraph.com
+    about: Check current incidents and maintenance before reporting an outage.

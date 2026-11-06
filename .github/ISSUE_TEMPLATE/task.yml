@@ -1,0 +1,26 @@
+name: Task
+description: A scoped piece of work (chore, docs, refactor, ops) that is not a bug or a feature.
+title: "[Task]: "
+type: Task
+body:
+  - type: textarea
+    id: context
+    attributes:
+      label: Context
+      description: Why this work is needed. Link the parent Epic and any related issues.
+    validations:
+      required: true
+  - type: textarea
+    id: outcome
+    attributes:
+      label: Definition of done
+      value: |
+        - [ ] 
+        - [ ] 
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes
+      description: Implementation notes, links, dependencies (what blocks this, what this blocks).
