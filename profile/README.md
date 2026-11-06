@@ -67,8 +67,7 @@ Tools we built for our own work and maintain in the open (Apache-2.0):
   issue dependencies.
 - **Project boards.** Each product has a GitHub Project named "Moraph · &lt;Product&gt;" with the same fields (Status,
   Priority, Size, Iteration, Start and Target date, Platform, Area) and views (Board, Backlog, Current iteration,
-  Roadmap, Bugs, My work). Portfolio view: [moraph-com projects](https://github.com/orgs/moraph-com/projects)
-  <!-- TODO(confirm): replace with the Moraph portfolio project URL once it exists. -->
+  Roadmap, Bugs, My work). Portfolio view: [Portfolio · Moraph](https://github.com/orgs/moraph-com/projects/7)
 - **Pull requests.** Every pull request links its issue with `Closes #<n>` and follows the
   [pull request template](https://github.com/moraph-com/.github/blob/main/.github/pull_request_template.md).
 - **Labels.** Shared labels across repositories (`needs-triage`, `needs-info`, `blocked`, `security`, `accessibility`,
@@ -86,5 +85,5 @@ time to nonprofits, community lenders, clinics and small public bodies.
 - Press: [www.moraph.com/newsroom](https://www.moraph.com/newsroom)
 - Offices: [www.moraph.com/contact](https://www.moraph.com/contact)
 - Support for clients: [support.moraph.com](https://support.moraph.com) · Service status: [status.moraph.com](https://status.moraph.com)
-- Security reports: [security@moraph.com](mailto:security@moraph.com) or each repository's private vulnerability reporting.
+- Security reports: [security@moraph.com](mailto:security@moraph.com) or each repository's private vulnerability reporting; see our [security policy](https://github.com/moraph-com/.github/blob/main/SECURITY.md).
   Do not open a public issue for a vulnerability.
