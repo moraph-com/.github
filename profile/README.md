@@ -67,7 +67,7 @@ Tools we built for our own work and maintain in the open (Apache-2.0):
   issue dependencies.
 - **Project boards.** Each product has a GitHub Project named "Moraph · &lt;Product&gt;" with the same fields (Status,
   Priority, Size, Iteration, Start and Target date, Platform, Area) and views (Board, Backlog, Current iteration,
-  Roadmap, Bugs, My work). Portfolio view: [Portfolio · Moraph](https://github.com/orgs/moraph-com/projects/7)
+  Roadmap, Bugs, My work), rolled up into a portfolio board visible to organization members.
 - **Pull requests.** Every pull request links its issue with `Closes #<n>` and follows the
   [pull request template](https://github.com/moraph-com/.github/blob/main/.github/pull_request_template.md).
 - **Labels.** Shared labels across repositories (`needs-triage`, `needs-info`, `blocked`, `security`, `accessibility`,
